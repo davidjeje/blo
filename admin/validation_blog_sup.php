@@ -4,7 +4,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Validation de l'envoi du commentaire</title>
+	<title>Validation de la suppression  du blog</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="" />
 	<meta name="keywords" content="" />
@@ -88,7 +88,7 @@
 				   			<div class="col-md-8 col-sm-12 col-md-offset-2 slider-text">
 				   				<div class="slider-text-inner text-center">
 				   					<h2></h2>
-				   					<h1>Validation de l'envoi des blogs posts</h1>
+				   					<h1>Validation de la suppression du blog post</h1>
 				   				</div>
 				   			</div>
 				   				</div>
